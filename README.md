@@ -8,12 +8,12 @@ Feito em Python empregando as bibliotecas scikit image, pyopenGL e pygame.
 
 ---
 
-Instalação:
+Dependências:
 
 - `sudo apt install pygame`
 
 - `sudo apt install python3-opengl`
 
-Uso:
+- `sudo apt install python3-skimage`
 
-- `python3 cubo.py`
+- `audo apt install python3-ipykernel`
